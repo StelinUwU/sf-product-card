@@ -6,7 +6,6 @@ This is a deployment test package
 
 ```
 import { ProductCard, ProductImage, ProductTitle, ProductButtons } from 'do-product-card'
-
 ```
 
 ```
