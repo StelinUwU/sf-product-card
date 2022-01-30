@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductTitle should render the component according to the props 1`] = `
+<img
+  alt="Product img"
+  className="productImg custom-class"
+  src="./coffee-mug.png"
+/>
+`;
+
+exports[`ProductTitle should render the component with the product image 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Product img"
+    className="productImg undefined"
+    src="./coffee-mug.png"
+  />
+</div>
+`;
